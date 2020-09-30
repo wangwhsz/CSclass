@@ -1,0 +1,6 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\bin\Debug\CS03_结构体.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\bin\Debug\CS03_结构体.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\bin\Debug\CS03_结构体.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\obj\Debug\CS03_结构体.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\obj\Debug\CS03_结构体.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS03_结构体\obj\Debug\CS03_结构体.pdb
