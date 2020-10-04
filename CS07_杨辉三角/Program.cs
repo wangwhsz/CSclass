@@ -39,6 +39,32 @@ namespace CS07_杨辉三角
                 }
                 Console.WriteLine();
             }
+
+
+
+
+            //const int nCount = 10;
+            //int[][] a = new int[nCount][];
+            //for (int nRow = 0; nRow < nCount; nRow++)
+            //{
+            //    a[nRow] = new int[nRow + 1];
+            //    a[nRow][0] = 1;
+            //    a[nRow][nRow] = 1;
+            //    for (int nCol = 1; nCol < nRow; nCol++)
+            //    {
+            //        a[nRow][nCol] = a[nRow - 1][nCol] + a[nRow - 1][nCol - 1];
+            //    }
+            //}
+            //for (int nRow = 0; nRow < nCount; nRow++)
+            //{
+            //    for (int nCol = 0; nCol <= nRow; nCol++)
+            //    {
+            //        Console.Write("{0}\t", a[nRow][nCol]);
+            //    }
+            //    Console.WriteLine();
+            //}
+            //Console.ReadKey();
+            //交错数组
         }
     }
 }
