@@ -1,0 +1,7 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\bin\Debug\CS04_宫格.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\bin\Debug\CS04_宫格.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\bin\Debug\CS04_宫格.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\obj\Debug\CS06_宫格.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\obj\Debug\CS06_宫格.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\obj\Debug\CS04_宫格.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS06_宫格\obj\Debug\CS04_宫格.pdb

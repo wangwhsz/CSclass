@@ -13,10 +13,10 @@ namespace CS07_杨辉三角
         {
             //int 
             int nRow = 8, nCol = 8;
-            int[][] Array = new int[nRow][];
+            int[,] Array = new int[nRow,nCol];
             for(int Count = 0 ; Count < nRow ; Count++)     //第一列元素赋1
             {
-                Array[Count][] = 1;
+                Array[Count,0] = 1;
             }
             for(int Count = 0; Count < nRow; Count++)
             {
