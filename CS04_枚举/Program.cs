@@ -4,9 +4,6 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
-
-
-
 namespace CS04_枚举
 {
     class Program
@@ -16,7 +13,6 @@ namespace CS04_枚举
             录取,
             肄业,
             毕业
-
         }
         static void Main(string[] args)
         {
