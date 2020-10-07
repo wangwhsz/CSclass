@@ -52,7 +52,7 @@ namespace CS08_阶乘
             for(; nPos > 0; nPos--)
             {
                 Console.Write(Array[nPos-1]);
-            }
+            }//
         }
     }
 }
