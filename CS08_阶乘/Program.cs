@@ -20,18 +20,38 @@ namespace CS08_阶乘
             {
                 Fact(Array, index, ref nPos);
             }
+            ArrayOutPut(Array, nPos);
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="nNum"></param>
+        /// <param name="nPos"></param>
         static void Fact(int[] a,int nNum,ref int nPos)
         {
-            int nCarry = 0;
-            int nSum = 0;
+            int nCarry = 0;//进位
+            int nSum = 0;//每一位上的乘积
             for (int index = 0 ; index < nPos; index++)
             {
-                
-                nSum = a[index] * nNum;
+                nSum = a[index] * nNum + nCarry;
                 a[index] = nSum % 10;
                 nCarry = nSum / 10;
+                //a[index + 1] += nCarry;
 
+            }
+            while(nCarry != 0)
+            {
+                a[nPos] = nCarry % 10;
+                nPos++;
+                nCarry = nCarry / 10;
+            }
+        }
+        static void ArrayOutPut(int[] Array,int nPos)
+        {
+            for(; nPos > 0; nPos--)
+            {
+                Console.Write(Array[nPos-1]);
             }
         }
     }
