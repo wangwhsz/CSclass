@@ -19,22 +19,22 @@ namespace CS09_数组去重
         static void ArrayRemoval(int[] Array)
         {
             int[] Array_b = new int[Array.Length];
-            int nCount = 0;//数组b的下标
+            int bIndex = 0;//数组b的下标
             //int nArray;
             for(int aIndex = 0; aIndex < Array.Length; aIndex++)
             {
                 int temp = 0;
-                for(temp = 0; temp < nCount; temp++)
+                for(temp = 0; temp < bIndex; temp++)
                 {
                     if(Array[aIndex] == Array_b[temp])
                     {
                         break;
                     }
                 }
-                if(temp == nCount)
+                if(temp == bIndex)
                 {
-                    Array_b[nCount] = Array[aIndex];
-                    nCount++;
+                    Array_b[bIndex] = Array[aIndex];
+                    bIndex++;
 
                 }
                 //输出B数组
