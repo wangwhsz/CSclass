@@ -16,7 +16,7 @@ namespace CS09_数组去重
                 Array[index] = rd.Next(7);
             }
         }
-        static void ArrayRemoval(int[] Array)
+        static void ArrayRemoval(int[] Array,ref int TotalDigits)
         {
             int[] Array_b = new int[Array.Length];
             int bIndex = 0;//数组b的下标
@@ -44,6 +44,7 @@ namespace CS09_数组去重
             {
                 Array[i] = Array_b[i];
             }
+            TotalDigits = bIndex ;
             //temp = Array[aIndex];
             //for (int i = 0; i < Array.Length; i++)
             //{
@@ -61,11 +62,12 @@ namespace CS09_数组去重
         static void Main(string[] args)
         {
             int[] Array_a = new int[10];
-            
+            int TotalDigits = 0;
             ArrayInit(Array_a);
             ArrayOutPut(Array_a);
             Console.WriteLine("-----------------------");
-            ArrayRemoval(Array_a);
+            ArrayRemoval(Array_a,ref TotalDigits);
+            Console.WriteLine(TotalDigits);
             ArrayOutPut(Array_a);
 
             
