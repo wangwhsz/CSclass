@@ -15,11 +15,21 @@ namespace CS08_阶乘
             int nCarry = 0;
             int nSum = 0;
             Array[0] = 1;
-            int nNum = 20;
+            int nNum = 30;
             for(int index = 2;index <= nNum; index++)
             {
                 Fact(Array, index, ref nPos);
+                
             }
+
+            //函数求阶乘
+            long nSum_1 = 1;
+            FactAndOpt(30 , ref  nSum_1);
+            Console.WriteLine("20的阶乘是{0}", nSum_1);
+
+
+
+            ///
             ArrayOutPut(Array, nPos);
         }
         /// <summary>
@@ -53,6 +63,13 @@ namespace CS08_阶乘
             {
                 Console.Write(Array[nPos-1]);
             }//
+        }
+        static void FactAndOpt(int nNum,ref long nSum)
+        {
+            for(int i = 2; i <= nNum; i++)
+            {
+                nSum *= i;
+            }
         }
     }
 }

@@ -12,7 +12,10 @@ namespace CS07_杨辉三角
         static void Main(string[] args)
         {
             //int 
-            int nRow = 8, nCol = 8;
+            int nCount;
+            int nRow, nCol;
+            Console.WriteLine("行数：");
+            nRow = nCol =  nCount =Convert.ToInt32(Console.ReadLine());
             int[,] Array = new int[nRow,nCol];
             for(int Count = 0 ; Count < nRow ; Count++)     //第一列元素赋1
             {
@@ -23,14 +26,14 @@ namespace CS07_杨辉三角
                 Array[Count, Count] = 1;
             }
 
-            for (nRow = 2; nRow < 8; nRow++)
+            for (nRow = 2; nRow < nCount; nRow++)
             {
-                for (nCol = 1; nCol < 7 ; nCol++)
+                for (nCol = 1; nCol < nCount-1 ; nCol++)
                 {
                     Array[nRow, nCol] = Array[nRow - 1, nCol] + Array[nRow - 1, nCol - 1];
                 }
             }
-            for (nRow = 0; nRow < 8; nRow++)
+            for (nRow = 0; nRow < nCount; nRow++)
             {
                 for (nCol = 0; nCol <= nRow; nCol++)
                 {
