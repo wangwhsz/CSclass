@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS08_阶乘", "..\CS08_阶�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_数组去重", "..\CS09_数组去重\CS09_数组去重.csproj", "{3009186D-4F28-4E1A-8DB2-7A34CB9B5F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS10_类的定义", "..\CS10_类的定义\CS10_类的定义.csproj", "{550DB07D-B843-448E-B924-596EE59F5903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3009186D-4F28-4E1A-8DB2-7A34CB9B5F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3009186D-4F28-4E1A-8DB2-7A34CB9B5F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3009186D-4F28-4E1A-8DB2-7A34CB9B5F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550DB07D-B843-448E-B924-596EE59F5903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550DB07D-B843-448E-B924-596EE59F5903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550DB07D-B843-448E-B924-596EE59F5903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550DB07D-B843-448E-B924-596EE59F5903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
