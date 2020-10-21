@@ -4,3 +4,4 @@ C:\Users\WangzyaaaA\Desktop\C#\CS04_枚举\bin\Debug\CS04_枚举.pdb
 C:\Users\WangzyaaaA\Desktop\C#\CS04_枚举\obj\Debug\CS04_枚举.csproj.CoreCompileInputs.cache
 C:\Users\WangzyaaaA\Desktop\C#\CS04_枚举\obj\Debug\CS04_枚举.exe
 C:\Users\WangzyaaaA\Desktop\C#\CS04_枚举\obj\Debug\CS04_枚举.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS04_枚举\obj\Debug\CS04_枚举.csprojAssemblyReference.cache
