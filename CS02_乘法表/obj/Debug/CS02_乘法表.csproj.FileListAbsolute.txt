@@ -1,6 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\bin\Debug\CS02_乘法表.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\bin\Debug\CS02_乘法表.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\bin\Debug\CS02_乘法表.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\obj\Debug\CS02_乘法表.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\obj\Debug\CS02_乘法表.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS02_乘法表\obj\Debug\CS02_乘法表.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{550DB07D-B843-448E-B924-596EE59F5903}</ProjectGuid>
+    <ProjectGuid>{9224AB55-EC6F-498C-BB54-EC2790DEE084}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CS10_类的定义</RootNamespace>
-    <AssemblyName>CS10_类的定义</AssemblyName>
+    <RootNamespace>CS11_类的属性</RootNamespace>
+    <AssemblyName>CS11_类的属性</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

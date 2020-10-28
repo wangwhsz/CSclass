@@ -1,7 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\bin\Debug\CS_随机数.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\bin\Debug\CS_随机数.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\bin\Debug\CS_随机数.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\obj\Debug\CS_随机数.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\obj\Debug\CS_随机数.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\obj\Debug\CS_随机数.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS_随机数\obj\Debug\CS_随机数.csprojAssemblyReference.cache

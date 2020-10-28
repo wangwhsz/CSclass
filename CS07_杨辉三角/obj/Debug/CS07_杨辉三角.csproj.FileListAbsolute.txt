@@ -1,7 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\bin\Debug\CS07_杨辉三角.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\bin\Debug\CS07_杨辉三角.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\bin\Debug\CS07_杨辉三角.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\obj\Debug\CS07_杨辉三角.csprojAssemblyReference.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\obj\Debug\CS07_杨辉三角.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\obj\Debug\CS07_杨辉三角.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS07_杨辉三角\obj\Debug\CS07_杨辉三角.pdb
