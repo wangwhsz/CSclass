@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS10_类的定义", "..\CS1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS11_类的属性", "..\CS11_类的属性\CS11_类的属性.csproj", "{9224AB55-EC6F-498C-BB54-EC2790DEE084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS12_参数类型", "..\CS12_参数类型\CS12_参数类型.csproj", "{746E9FC9-E26D-4717-B3E5-ED5249CCAD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9224AB55-EC6F-498C-BB54-EC2790DEE084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9224AB55-EC6F-498C-BB54-EC2790DEE084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9224AB55-EC6F-498C-BB54-EC2790DEE084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746E9FC9-E26D-4717-B3E5-ED5249CCAD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746E9FC9-E26D-4717-B3E5-ED5249CCAD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746E9FC9-E26D-4717-B3E5-ED5249CCAD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746E9FC9-E26D-4717-B3E5-ED5249CCAD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

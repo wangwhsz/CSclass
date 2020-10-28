@@ -9,7 +9,7 @@ namespace CS11_类的属性
         public string Name
         {
             get { return cName; }
-            set { cName = value; }
+            //set { cName = value; }
         }
 
         private int nAge;
@@ -20,10 +20,10 @@ namespace CS11_类的属性
             {   nAge = value;  }
         }
         //带默认值的参数必须放在参数列表最后
-        public Person(string cName = "",int nAge = 0)
+        public Person(string cName,int nAge = 0)
         {
-            this.Name = cName;
-            this.Age = nAge;
+            this.cName = cName;
+            this.nAge = nAge;
         }
         public void Say()
         {

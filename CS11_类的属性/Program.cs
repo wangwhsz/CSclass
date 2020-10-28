@@ -10,7 +10,7 @@ namespace CS11_类的属性
     {
         static void Main(string[] args)
         {
-            Person per = new Person();
+            Person per = new Person("邵省长",20);
             per.Say();
         }
     }

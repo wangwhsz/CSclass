@@ -10,7 +10,7 @@ namespace CS10_类的定义
     {
         private string cName;
         private int nAge;
-        internal long idCard;
+       
 
         public int Age { set { nAge = value; } get { return nAge; } }
         //public int NAge { get { return nAge}; set => nAge = value; }

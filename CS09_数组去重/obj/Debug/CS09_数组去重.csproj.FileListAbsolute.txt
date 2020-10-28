@@ -1,0 +1,7 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\bin\Debug\CS09_数组去重.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\bin\Debug\CS09_数组去重.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\bin\Debug\CS09_数组去重.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\obj\Debug\CS09_数组去重.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\obj\Debug\CS09_数组去重.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\obj\Debug\CS09_数组去重.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS09_数组去重\obj\Debug\CS09_数组去重.pdb
