@@ -8,11 +8,37 @@ namespace CS12_参数类型
 {
     class Program
     {
-        static int GetSum(int n)
+        //重载方法和形参的名以及返回值无关
+        //static int GetSum(int n)
+        //{
+        //    if (n == 1)
+        //        return 1;   
+        //    return n + GetSum(n - 1);
+        //}
+        //static int GetSum(int m,int n)
+        //{
+        //    return m + n;
+        //}
+        //static double GetSum(double m, double n)
+        //{
+        //    return m + n;
+        //}
+
+
+
+        /// <summary>
+        /// 可变参数
+        /// </summary>
+        /// <param name="a"></param>
+        /// <returns></returns>
+        static int GetSum(params int[] a)
         {
-            if (n == 1)
-                return 1;   
-            return n + GetSum(n - 1);
+            int s = 0;
+            foreach(var n in a)
+            {
+                s += n;
+            }
+            return s;
         }
         //递归输出逆序数
         static void RevOpt(int n)
@@ -50,9 +76,13 @@ namespace CS12_参数类型
 
 
             //引用参数使用前必须赋值
-            Console.WriteLine("调用前------{0},{1}", n1, n2);
-            Swap(ref n1,ref n2);
-            Console.WriteLine("调用后------{0},{1}", n1, n2);
+            //Console.WriteLine("调用前------{0},{1}", n1, n2);
+            //Swap(ref n1,ref n2);
+            //Console.WriteLine("调用后------{0},{1}", n1, n2);
+            Console.WriteLine(GetSum(5, 3));
+            Console.WriteLine(GetSum(5,4,3,2,1));
+            int[] a = new int[10];
+            Console.WriteLine(GetSum(a));
         }
     }
 }
