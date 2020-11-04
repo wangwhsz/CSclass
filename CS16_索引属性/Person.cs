@@ -10,7 +10,7 @@ namespace CS16_索引属性
     {
         //Console.WriteLine("{0}",1);
         private string cName;
-        private string nAge;
+        private int nAge;
 
         public string Name
         {
@@ -23,7 +23,7 @@ namespace CS16_索引属性
                 cName = value;
             }
         }
-        public string Age
+        public int Age
         {
             get
             {
@@ -35,35 +35,70 @@ namespace CS16_索引属性
             }
         }
         //索引访问
-        public string this[int index]
+        public object this[int index]
         {
             get
             {
-                string cval = "";
+                object cval = "";
                 //cval = cName;
                 switch (index)
                 {
-                    case 0: cval = Name;
+                    case 0:
+                        cval = Name;
                         break;
-                    case 1: cval = Age;
+                    case 1:
+                        cval = Age;
                         break;
                 }
                 return cval;
             }
             set
             {
-                switch (index) {
+                switch (index)
+                {
                     case 0:
-                        Name = value;
+                        Name = Convert.ToString(value);
                         break;
                     case 1:
-                        Age = value;
+                        Age = Convert.ToInt32(value);
                         break;
                 }
             }
         }
 
-        public Person(string cName, string nAge)
+        public object this[string citem]
+        {
+            get
+            {
+                object cval = "";
+                //cval = cName;
+                citem = citem.ToLower();
+                switch (citem)
+                {
+                    case "name":
+                        cval = Name;
+                        break;
+                    case "age":
+                        cval = Age;
+                        break;
+                }
+                return cval;
+            }
+            set
+            {
+                switch (citem)
+                {
+                    case "name":
+                        Name = Convert.ToString(value);
+                        break;
+                    case "age":
+                         Age = Convert.ToInt32(value);
+                        break;
+                }
+            }
+        }
+
+        public Person(string cName, int nAge)
         {
             Age = nAge;
             Name = cName;

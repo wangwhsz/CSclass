@@ -10,10 +10,13 @@ namespace CS16_索引属性
     {
         static void Main(string[] args)
         {
-            Person psn = new Person("zhangsan","5");
-            psn.Name = "lisi";
-            psn.Age = "100";
+            Person psn = new Person("zhangsan",5);
+            //psn.Name = "lisi";
+            //psn.Age = 100;
+            psn["name"] = "lisi";
+            psn["age"] = 100;
             psn.Say();
+            Console.WriteLine("{0}", psn["name"]);
         }
     }
 }
