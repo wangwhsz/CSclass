@@ -4,17 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS13_静态修饰符
+namespace CS15_继承
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Person ps1 = new Person();
-            //Person ps2 = new Person();
-            //ps1.Say();
-            //ps2.Say();
-
+            Student stu = new Student("张三", 23, "计算机");
         }
     }
 }

@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS12_参数类型", "..\CS1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS13_静态关键字", "..\CS13_静态关键字\CS13_静态关键字.csproj", "{48582FFC-F080-4314-9BF0-D40B04D0CD94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS14_单例模式", "..\CS14_单例模式\CS14_单例模式.csproj", "{8A125178-83E7-46E8-BF28-3F7CCB69A3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS15_继承", "..\CS15_继承\CS15_继承.csproj", "{7F144C30-5EB3-42ED-AF02-4738A8B6C896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{48582FFC-F080-4314-9BF0-D40B04D0CD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48582FFC-F080-4314-9BF0-D40B04D0CD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48582FFC-F080-4314-9BF0-D40B04D0CD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A125178-83E7-46E8-BF28-3F7CCB69A3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A125178-83E7-46E8-BF28-3F7CCB69A3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A125178-83E7-46E8-BF28-3F7CCB69A3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A125178-83E7-46E8-BF28-3F7CCB69A3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F144C30-5EB3-42ED-AF02-4738A8B6C896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F144C30-5EB3-42ED-AF02-4738A8B6C896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F144C30-5EB3-42ED-AF02-4738A8B6C896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F144C30-5EB3-42ED-AF02-4738A8B6C896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
