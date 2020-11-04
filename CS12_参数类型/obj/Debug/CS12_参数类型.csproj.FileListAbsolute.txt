@@ -1,6 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\bin\Debug\CS12_参数类型.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\bin\Debug\CS12_参数类型.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\bin\Debug\CS12_参数类型.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\obj\Debug\CS12_参数类型.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\obj\Debug\CS12_参数类型.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS12_参数类型\obj\Debug\CS12_参数类型.pdb

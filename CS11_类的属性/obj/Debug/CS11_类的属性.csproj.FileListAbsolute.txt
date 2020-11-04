@@ -1,6 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\bin\Debug\CS11_类的属性.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\bin\Debug\CS11_类的属性.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\bin\Debug\CS11_类的属性.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\obj\Debug\CS11_类的属性.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\obj\Debug\CS11_类的属性.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS11_类的属性\obj\Debug\CS11_类的属性.pdb

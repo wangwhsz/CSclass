@@ -12,6 +12,7 @@ namespace CS14_单例模式
     {
         private string cName;
         private int nAge;
+        static private Person psn;
 
         public string CName { get => cName; set => cName = value; }
         public int NAge { get => nAge; set => nAge = value; }
@@ -41,13 +42,13 @@ namespace CS14_单例模式
             }
         }
 
-        //1.构造一个私有的静态类对象
-        static private Person psn;
+        //1.构造一个私有的、静态的类对象
         //2.有且只有一个私有的构造函数
-        //3.构造静态的全局访问点
-        //4.定义一个静态临界点
-        static object obj = new object();//定义一个静态的临界点
-        static void Say()
+        //3.构造公有的全局访问点，返回1所创建的类对象
+        //4.定义一个静态临界点 object
+        static private object obj = new object();//定义一个静态的临界点
+        //
+        public void Say()
         {
             Console.WriteLine("我叫{0}，今年{1}岁",psn.cName,psn.nAge);
         }

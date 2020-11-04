@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace CS15_继承
 {
-    public class Person
+    class Person
     {
+        //Console.WriteLine("{0}",1);
         private string cName;
         private int nAge;
-        public string Name {
-        get{
+
+        public string Name
+        {
+            get
+            {
                 return cName;
             }
             set
@@ -30,15 +34,29 @@ namespace CS15_继承
                 nAge = value;
             }
         }
-        public void Say()
-        {
-            Console.WriteLine("我叫{0}，今年{1}岁", Name, Age);
-
-        }
+        /// <summary>
+        /// 析构函数
+        /// </summary>
+        /// <param name="cName"></param>
+        /// <param name="nAge"></param>
+        //~Person()
+        //{
+        //    Console.WriteLine("person 被销毁");
+        //}
         public Person(string cName,int nAge)
         {
-            Name = cName;
             Age = nAge;
+            Name = cName;
+        }
+        //public Person()
+        //{
+        //    Console.WriteLine("Person被构造");
+        //    //CName = cname;
+        //    //NAge = nage;
+        //}
+        public virtual void Say()
+        {
+            Console.WriteLine("人:姓名{0} 年龄{1}",Name,Age);
         }
 
     }

@@ -1,6 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\bin\Debug\CS08_阶乘.exe.config
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\bin\Debug\CS08_阶乘.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\bin\Debug\CS08_阶乘.pdb
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\obj\Debug\CS08_阶乘.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\obj\Debug\CS08_阶乘.exe
-C:\Users\WangzyaaaA\Desktop\C#\CS08_阶乘\obj\Debug\CS08_阶乘.pdb

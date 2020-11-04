@@ -10,7 +10,14 @@ namespace CS15_继承
     {
         static void Main(string[] args)
         {
-            Student stu = new Student("张三", 23, "计算机");
+            Person psn = new Person("ren", 1);
+            Person stu = new Student("张三",15,"cs");
+            Person tcr = new Teacher("wangwu",30,4000);
+            psn.Say();
+            stu.Say();
+            tcr.Say();
+            Console.WriteLine("{0}");
+
         }
     }
 }

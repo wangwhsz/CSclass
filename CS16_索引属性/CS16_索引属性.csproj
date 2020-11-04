@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7F144C30-5EB3-42ED-AF02-4738A8B6C896}</ProjectGuid>
+    <ProjectGuid>{18F60F72-9CE6-4163-A94A-CBB41876C869}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CS15_继承</RootNamespace>
-    <AssemblyName>CS15_继承</AssemblyName>
+    <RootNamespace>CS16_索引属性</RootNamespace>
+    <AssemblyName>CS16_索引属性</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,8 +46,6 @@
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

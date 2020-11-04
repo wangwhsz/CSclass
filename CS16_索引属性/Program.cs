@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS14_单例模式
+namespace CS16_索引属性
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Person psn = new Person("1asd",1);
-            Person psn = Person.GetPerson("zhangsan", 24);
-            Person psn2 = Person.GetPerson("dierge", 26);
+            Person psn = new Person("zhangsan","5");
+            psn.Name = "lisi";
+            psn.Age = "100";
             psn.Say();
         }
     }
