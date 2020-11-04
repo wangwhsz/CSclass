@@ -1,0 +1,7 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\bin\Debug\CS13_静态修饰符.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\bin\Debug\CS13_静态修饰符.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\bin\Debug\CS13_静态修饰符.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\obj\Debug\CS13_静态关键字.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\obj\Debug\CS13_静态关键字.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\obj\Debug\CS13_静态修饰符.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS13_静态关键字\obj\Debug\CS13_静态修饰符.pdb
