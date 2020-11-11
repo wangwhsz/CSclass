@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS15_继承", "..\CS15_继�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS16_索引属性", "..\CS16_索引属性\CS16_索引属性.csproj", "{18F60F72-9CE6-4163-A94A-CBB41876C869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS17_多态", "..\CS17_多态\CS17_多态.csproj", "{951FF7AD-8AFF-4D38-A23B-95CB05E71DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS18_抽象", "..\CS18_抽象\CS18_抽象.csproj", "{5702C8C0-E0F3-430C-86E7-970B0DA7A626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{18F60F72-9CE6-4163-A94A-CBB41876C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F60F72-9CE6-4163-A94A-CBB41876C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F60F72-9CE6-4163-A94A-CBB41876C869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951FF7AD-8AFF-4D38-A23B-95CB05E71DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951FF7AD-8AFF-4D38-A23B-95CB05E71DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951FF7AD-8AFF-4D38-A23B-95CB05E71DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951FF7AD-8AFF-4D38-A23B-95CB05E71DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5702C8C0-E0F3-430C-86E7-970B0DA7A626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5702C8C0-E0F3-430C-86E7-970B0DA7A626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5702C8C0-E0F3-430C-86E7-970B0DA7A626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5702C8C0-E0F3-430C-86E7-970B0DA7A626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

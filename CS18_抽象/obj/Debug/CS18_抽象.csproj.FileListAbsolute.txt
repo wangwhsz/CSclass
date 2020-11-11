@@ -1,0 +1,6 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\obj\Debug\CS18_抽象.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\bin\Debug\CS18_抽象.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\bin\Debug\CS18_抽象.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\bin\Debug\CS18_抽象.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\obj\Debug\CS18_抽象.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS18_抽象\obj\Debug\CS18_抽象.pdb

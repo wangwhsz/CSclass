@@ -10,7 +10,9 @@ namespace CS16_索引属性
 {
     class Program
     {
-        static void Main(string[] args)
+        // private protected public internal 
+            // internal protected int db;
+            static void Main(string[] args)
         {
             Person psn = new Person("zhangsan",5);
             //psn.Name = "lisi";

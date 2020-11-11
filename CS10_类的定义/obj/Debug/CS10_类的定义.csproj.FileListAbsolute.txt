@@ -1,0 +1,7 @@
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\bin\Debug\CS10_类的定义.exe.config
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\bin\Debug\CS10_类的定义.exe
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\bin\Debug\CS10_类的定义.pdb
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\obj\Debug\CS10_类的定义.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\obj\Debug\CS10_类的定义.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\obj\Debug\CS10_类的定义.exe
+C:\Users\WangzyaaaA\desktop\c#\CS10_类的定义\obj\Debug\CS10_类的定义.pdb
