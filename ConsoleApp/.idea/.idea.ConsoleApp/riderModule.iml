@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../CS01_Helloworld" />
+    <content url="file://$MODULE_DIR$/../../../CS02_乘法表" />
+    <content url="file://$MODULE_DIR$/../../../CS03_结构体" />
+    <content url="file://$MODULE_DIR$/../../../CS04_枚举" />
+    <content url="file://$MODULE_DIR$/../../../CS06_宫格" />
+    <content url="file://$MODULE_DIR$/../../../CS07_杨辉三角" />
+    <content url="file://$MODULE_DIR$/../../../CS08_阶乘" />
+    <content url="file://$MODULE_DIR$/../../../CS09_数组去重" />
+    <content url="file://$MODULE_DIR$/../../../CS10_类的定义" />
+    <content url="file://$MODULE_DIR$/../../../CS11_类的属性" />
+    <content url="file://$MODULE_DIR$/../../../CS12_参数类型" />
+    <content url="file://$MODULE_DIR$/../../../CS13_静态关键字" />
+    <content url="file://$MODULE_DIR$/../../../CS14_单例模式" />
+    <content url="file://$MODULE_DIR$/../../../CS15_继承" />
+    <content url="file://$MODULE_DIR$/../../../CS16_索引属性" />
+    <content url="file://$MODULE_DIR$/../../../CS17_多态" />
+    <content url="file://$MODULE_DIR$/../../../CS18_抽象" />
+    <content url="file://$MODULE_DIR$/../../../CS19_密封" />
+    <content url="file://$MODULE_DIR$/../../../CS_随机数" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../WindowsFormsApp1" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

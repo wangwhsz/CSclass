@@ -1,0 +1,9 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\bin\Debug\net472\CS19_密封.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\bin\Debug\net472\CS19_密封.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\bin\Debug\net472\CS19_密封.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.AssemblyInfoInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.AssemblyInfo.cs
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS19_密封\obj\Debug\net472\CS19_密封.pdb
