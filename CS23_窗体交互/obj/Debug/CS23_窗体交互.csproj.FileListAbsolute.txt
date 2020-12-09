@@ -1,0 +1,10 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\bin\Debug\CS23_窗体交互.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\bin\Debug\CS23_窗体交互.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\bin\Debug\CS23_窗体交互.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.Form1.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.Properties.Resources.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.csproj.GenerateResource.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS23_窗体交互\obj\Debug\CS23_窗体交互.pdb

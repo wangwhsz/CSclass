@@ -1,0 +1,9 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\bin\Debug\net472\CS20_接口.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\bin\Debug\net472\CS20_接口.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\bin\Debug\net472\CS20_接口.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.AssemblyInfoInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.AssemblyInfo.cs
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS20_接口\obj\Debug\net472\CS20_接口.pdb

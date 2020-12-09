@@ -22,6 +22,8 @@
     <projectFile>../CS17_多态/CS17_多态.csproj</projectFile>
     <projectFile>../CS18_抽象/CS18_抽象.csproj</projectFile>
     <projectFile>../CS19_密封/CS19_密封.csproj</projectFile>
+    <projectFile>../CS20_接口/CS20_接口.csproj</projectFile>
+    <projectFile>../CS21_异常处理/CS21_异常处理.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -43,53 +45,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="491ed4c7-82ac-43bd-b075-2d4a8b573ba1" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/bin/Debug/CS01_Helloworld.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/bin/Debug/CS01_Helloworld.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/bin/Debug/CS01_Helloworld.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/BStudent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/CS19_密封.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/bin/Debug/net472/CS19_密封.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/bin/Debug/net472/CS19_密封.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/bin/Debug/net472/CS19_密封.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/CS19_密封.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/CS19_密封.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/CS19_密封.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.exe.withSupportedRuntime.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/Debug/net472/CS19_密封.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS19_密封/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CS01_Helloworld/obj/Debug/CS01_Helloworld.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS18_抽象/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CS18_抽象/Animal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ConsoleApp/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ConsoleApp/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/CS20_接口.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/HCar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/Horse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/Transportation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/bin/Debug/net472/CS20_接口.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/bin/Debug/net472/CS20_接口.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/bin/Debug/net472/CS20_接口.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/CS20_接口.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/CS20_接口.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/CS20_接口.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/Debug/net472/CS20_接口.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20_接口/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/CS21_异常处理.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/obj/Debug/net472/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/obj/Debug/net472/CS21_异常处理.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/obj/Debug/net472/CS21_异常处理.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/obj/Debug/net472/CS21_异常处理.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21_异常处理/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/ConsoleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/ConsoleApp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +91,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -106,6 +102,13 @@
         <option value="$PROJECT_DIR$/../CS19_密封/Program.cs" />
         <option value="$PROJECT_DIR$/../CS19_密封/BStudent.cs" />
         <option value="$PROJECT_DIR$/../CS19_密封/Student.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/Hrse.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/Horse.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/Car.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/HCar.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/Transportation.cs" />
+        <option value="$PROJECT_DIR$/../CS20_接口/Program.cs" />
+        <option value="$PROJECT_DIR$/../CS21_异常处理/Program.cs" />
       </list>
     </option>
   </component>
@@ -118,12 +121,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993532" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30012935" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.ConsoleApp">
+  <component name="RunManager" selected=".NET Project.CS21_异常处理">
     <configuration name="CS01_Helloworld" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -448,6 +453,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="CS20_接口" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../CS20_接口/CS20_接口.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="CS21_异常处理" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../CS21_异常处理/CS21_异常处理.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="CS_随机数" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -511,7 +552,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605666011303</updated>
-      <workItem from="1605666022050" duration="1871000" />
+      <workItem from="1605666022050" duration="5595000" />
     </task>
     <servers />
   </component>
@@ -535,33 +576,189 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1577" height="291" key="GridCell.Tab.0.bottom" timestamp="1605667280856">
+    <state width="1577" height="385" key="GridCell.Tab.0.bottom" timestamp="1605671666739">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state width="1577" height="291" key="GridCell.Tab.0.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605667280856" />
-    <state width="1577" height="291" key="GridCell.Tab.0.center" timestamp="1605667280856">
+    <state width="1577" height="385" key="GridCell.Tab.0.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.0.center" timestamp="1605671666736">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state width="1577" height="291" key="GridCell.Tab.0.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605667280856" />
-    <state width="1577" height="291" key="GridCell.Tab.0.left" timestamp="1605667280856">
+    <state width="1577" height="385" key="GridCell.Tab.0.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666736" />
+    <state width="1577" height="385" key="GridCell.Tab.0.left" timestamp="1605671666736">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state width="1577" height="291" key="GridCell.Tab.0.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605667280856" />
-    <state width="1577" height="291" key="GridCell.Tab.0.right" timestamp="1605667280856">
+    <state width="1577" height="385" key="GridCell.Tab.0.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666736" />
+    <state width="1577" height="385" key="GridCell.Tab.0.right" timestamp="1605671666736">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state width="1577" height="291" key="GridCell.Tab.0.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605667280856" />
-    <state x="489" y="265" key="Rider.ProjectTemplateDialog.Size" timestamp="1605666547195">
+    <state width="1577" height="385" key="GridCell.Tab.0.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666736" />
+    <state width="1577" height="385" key="GridCell.Tab.1.bottom" timestamp="1605671666739">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state x="489" y="265" key="Rider.ProjectTemplateDialog.Size/87.0.1620.1067@87.0.1620.1067" timestamp="1605666547195" />
-    <state x="398" y="178" key="SettingsEditor" timestamp="1605666414207">
+    <state width="1577" height="385" key="GridCell.Tab.1.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.1.center" timestamp="1605671666739">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
-    <state x="398" y="178" key="SettingsEditor/87.0.1620.1067@87.0.1620.1067" timestamp="1605666414207" />
+    <state width="1577" height="385" key="GridCell.Tab.1.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.1.left" timestamp="1605671666739">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.1.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.1.right" timestamp="1605671666739">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.1.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.2.bottom" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.2.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.2.center" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.2.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.2.left" timestamp="1605671666739">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.2.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666739" />
+    <state width="1577" height="385" key="GridCell.Tab.2.right" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.2.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.3.bottom" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.3.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.3.center" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.3.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.3.left" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.3.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.3.right" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.3.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.4.bottom" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.4.bottom/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.4.center" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.4.center/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.4.left" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.4.left/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state width="1577" height="385" key="GridCell.Tab.4.right" timestamp="1605671666740">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state width="1577" height="385" key="GridCell.Tab.4.right/87.0.1620.1067@87.0.1620.1067" timestamp="1605671666740" />
+    <state x="489" y="265" key="Rider.ProjectTemplateDialog.Size" timestamp="1605669565964">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state x="489" y="265" key="Rider.ProjectTemplateDialog.Size/87.0.1620.1067@87.0.1620.1067" timestamp="1605669565964" />
+    <state x="718" y="234" key="RiderGenerateDialog" timestamp="1605668958258">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state x="718" y="234" key="RiderGenerateDialog/87.0.1620.1067@87.0.1620.1067" timestamp="1605668958258" />
+    <state x="398" y="178" key="SettingsEditor" timestamp="1605671109548">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state x="398" y="178" key="SettingsEditor/87.0.1620.1067@87.0.1620.1067" timestamp="1605671109548" />
+    <state x="461" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605670911044">
+      <screen x="87" y="0" width="1620" height="1067" />
+    </state>
+    <state x="461" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/87.0.1620.1067@87.0.1620.1067" timestamp="1605670911044" />
     <state x="559" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1605666276351">
       <screen x="87" y="0" width="1620" height="1067" />
     </state>
     <state x="559" y="232" width="672" height="678" key="search.everywhere.popup/87.0.1620.1067@87.0.1620.1067" timestamp="1605666276351" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>21</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="21">
+            <startOffsets>
+              <option value="582" />
+            </startOffsets>
+            <endOffsets>
+              <option value="611" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>22</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="22">
+            <startOffsets>
+              <option value="628" />
+            </startOffsets>
+            <endOffsets>
+              <option value="657" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="15">
+            <startOffsets>
+              <option value="415" />
+            </startOffsets>
+            <endOffsets>
+              <option value="444" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>14</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="14">
+            <startOffsets>
+              <option value="362" />
+            </startOffsets>
+            <endOffsets>
+              <option value="398" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>13</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="13">
+            <startOffsets>
+              <option value="307" />
+            </startOffsets>
+            <endOffsets>
+              <option value="345" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CS21_异常处理/Program.cs</url>
+          <line>28</line>
+          <properties documentPath="C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\Program.cs" initialLine="28">
+            <startOffsets>
+              <option value="765" />
+            </startOffsets>
+            <endOffsets>
+              <option value="790" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

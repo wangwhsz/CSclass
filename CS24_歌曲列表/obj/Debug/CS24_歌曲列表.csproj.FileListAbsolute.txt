@@ -1,0 +1,10 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\bin\Debug\CS24_歌曲列表.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\bin\Debug\CS24_歌曲列表.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\bin\Debug\CS24_歌曲列表.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.Form1.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.Properties.Resources.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.csproj.GenerateResource.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS24_歌曲列表\obj\Debug\CS24_歌曲列表.csprojAssemblyReference.cache

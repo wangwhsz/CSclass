@@ -1,0 +1,9 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\bin\Debug\net472\CS21_异常处理.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\bin\Debug\net472\CS21_异常处理.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\bin\Debug\net472\CS21_异常处理.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.AssemblyInfoInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.AssemblyInfo.cs
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS21_异常处理\obj\Debug\net472\CS21_异常处理.pdb

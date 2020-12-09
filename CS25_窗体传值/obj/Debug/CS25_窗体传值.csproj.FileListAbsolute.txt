@@ -1,0 +1,11 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\bin\Debug\CS25_窗体传值.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\bin\Debug\CS25_窗体传值.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\bin\Debug\CS25_窗体传值.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.FrmFirst.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.FrmSecond.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.Properties.Resources.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.csproj.GenerateResource.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.pdb

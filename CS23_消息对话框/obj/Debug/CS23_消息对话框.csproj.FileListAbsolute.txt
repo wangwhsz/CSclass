@@ -1,0 +1,9 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\bin\Debug\CS23_消息对话框.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\bin\Debug\CS23_消息对话框.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\bin\Debug\CS23_消息对话框.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.Form1.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.Properties.Resources.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.csproj.GenerateResource.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS23_消息对话框\obj\Debug\CS23_消息对话框.pdb
