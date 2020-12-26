@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1CA01E6-C897-4CDC-AC28-6CA33E0EF72E}</ProjectGuid>
+    <ProjectGuid>{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CS25_窗体传值</RootNamespace>
-    <AssemblyName>CS25_窗体传值</AssemblyName>
+    <RootNamespace>CS26_文件</RootNamespace>
+    <AssemblyName>CS26_文件</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,34 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmFirst.cs">
+    <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmFirst.Designer.cs">
-      <DependentUpon>FrmFirst.cs</DependentUpon>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmSecond.cs">
+    <Compile Include="FrmMain2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmSecond.Designer.cs">
-      <DependentUpon>FrmSecond.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Input.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Input.Designer.cs">
-      <DependentUpon>Input.cs</DependentUpon>
+    <Compile Include="FrmMain2.Designer.cs">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmFirst.resx">
-      <DependentUpon>FrmFirst.cs</DependentUpon>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSecond.resx">
-      <DependentUpon>FrmSecond.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Input.resx">
-      <DependentUpon>Input.cs</DependentUpon>
+    <EmbeddedResource Include="FrmMain2.resx">
+      <DependentUpon>FrmMain2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

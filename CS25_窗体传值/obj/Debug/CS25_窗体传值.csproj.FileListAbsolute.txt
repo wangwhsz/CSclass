@@ -9,3 +9,4 @@ C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.csp
 C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.csproj.CoreCompileInputs.cache
 C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.exe
 C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS25_窗体传值\obj\Debug\CS25_窗体传值.Input.resources

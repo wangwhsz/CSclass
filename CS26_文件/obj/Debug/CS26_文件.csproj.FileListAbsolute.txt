@@ -1,0 +1,11 @@
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\bin\Debug\CS26_文件.exe.config
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\bin\Debug\CS26_文件.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\bin\Debug\CS26_文件.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.csprojAssemblyReference.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.FrmMain.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.Properties.Resources.resources
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.csproj.GenerateResource.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.exe
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.pdb
+C:\Users\WangzyaaaA\Desktop\C#\CS26_文件\obj\Debug\CS26_文件.FrmMain2.resources

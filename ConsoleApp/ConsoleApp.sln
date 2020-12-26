@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS24_歌曲列表", "..\CS2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS25_窗体传值", "..\CS25_窗体传值\CS25_窗体传值.csproj", "{C1CA01E6-C897-4CDC-AC28-6CA33E0EF72E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS26_文件", "..\CS26_文件\CS26_文件.csproj", "{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{C1CA01E6-C897-4CDC-AC28-6CA33E0EF72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1CA01E6-C897-4CDC-AC28-6CA33E0EF72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1CA01E6-C897-4CDC-AC28-6CA33E0EF72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5E90E7-0FF5-47FE-8C6B-DA5811637285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

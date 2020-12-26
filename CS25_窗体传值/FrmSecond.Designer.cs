@@ -42,6 +42,7 @@ namespace CS25_窗体传值
             this.TxtShow.Name = "TxtShow";
             this.TxtShow.Size = new System.Drawing.Size(338, 67);
             this.TxtShow.TabIndex = 0;
+            this.TxtShow.TextChanged += new System.EventHandler(this.TxtShow_TextChanged);
             // 
             // BtnOK
             // 

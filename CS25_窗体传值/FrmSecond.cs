@@ -67,5 +67,10 @@ namespace CS25_窗体传值
             }
             
         }
+
+        private void TxtShow_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

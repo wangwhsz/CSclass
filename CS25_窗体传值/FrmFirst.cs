@@ -33,11 +33,11 @@ namespace CS25_窗体传值
 
         private void BtnOPEN_Click(object sender, EventArgs e)
         {
-            FrmSecond form = new FrmSecond();
+            Input form = new Input();
             form.Owner = this;
             form.cText = this.TxtShow.Text;
             form.ShowDialog();
-            this.TxtShow.Text = form.cText;
+            // this.TxtShow.Text = form.cText;
         }
 
         private void BtnCLOSE_Click(object sender, EventArgs e)
